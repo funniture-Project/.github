@@ -1,0 +1,35 @@
+title: "[General] "
+labels: ["General Introduction"]
+body:
+  - type: textarea
+    id: improvements_1
+    attributes:
+      label: 🔴 중요 공지사항 🔴
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: download
+    attributes:
+      label: "Which area of this project could be most improved?"
+      options:
+        - Documentation
+        - Pull request review time
+        - Bug fix time
+        - Release cadence
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: ☑ 확인 결과 체크 ☑
+      options:
+        - label: 김남규
+        - label: 김경훈
+        - label: 박재민
+        - label: 정예진
+        - label: 정은미
