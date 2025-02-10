@@ -28,7 +28,7 @@ body:
     attributes:
       label: ☑ 확인 결과 체크 ☑
       options:
-        - label: 김남규
+        - label: 김규남
         - label: 김경훈
         - label: 박재민
         - label: 정예진
