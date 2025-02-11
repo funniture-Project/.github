@@ -4,7 +4,7 @@ body:
   - type: textarea
     id: Daily_Scrum_Report
     attributes:
-      label: "🌟 Daily Scrum Report"
+      label: "🌟 Daily Scrum Report 🌟"
       value: "이곳에 내용을 입력할 필요 없습니다."  # 빈 값 대신 기본 텍스트 추가
       placeholder: "이곳에 내용을 입력할 필요 없습니다."
 
