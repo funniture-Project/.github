@@ -8,8 +8,8 @@ body:
 
   - type: markdown
     attributes:
-      label: "✅ 1. 어제 한 일 (What we did yesterday)"
-      value: ""
+      value: |
+        ✅ **1. 어제 한 일 (What we did yesterday)**
 
   - type: textarea
     id: Done_Yesterday_Kyunam
@@ -29,11 +29,10 @@ body:
       label: "은미"
       value: "- 🔹"
 
-  - type: textarea
-    id: Plan_Today
+  - type: markdown
     attributes:
-      label: "📝 2. 오늘 할 일 (What I plan to do today)"
-      value: "- 🔹"
+      value: |
+        📝 **2. 오늘 할 일 (What I plan to do today)**
 
   - type: checkboxes
     attributes:
@@ -56,14 +55,24 @@ body:
         - label: "1번째"
         - label: "2번째"
 
+  - type: markdown
+    attributes:
+      value: |
+        ❓ **3. 문제점 및 도움 요청 (Any blockers or help needed?)**
+
   - type: textarea
     id: Help
     attributes:
-      label: "❓ 3. 문제점 및 도움 요청 (Any blockers or help needed?)"
+      label: "문제점 및 도움 요청"
       value: "- 🔹"
+
+  - type: markdown
+    attributes:
+      value: |
+        🔗 **4. 알게된 사실 및 유용한 참고 관련 링크 (Links)**
 
   - type: textarea
     id: Links
     attributes:
-      label: "🔗 알게된 사실 및 유용한 참고 관련 링크 (Links)"
+      label: "알게된 사실 및 참고 링크"
       value: "- 🔹"
