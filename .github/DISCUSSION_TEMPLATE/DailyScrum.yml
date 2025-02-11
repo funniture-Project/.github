@@ -1,16 +1,15 @@
 title: "[오늘 날짜] 회의록"
 labels: [아침 짧은 회의를 통한 할일 정리와 현 상황 파악]
 body:
-  - type: textarea
-    id: Daily_Scrum_Report
+  - type: markdown
     attributes:
-      label: "🌟 Daily Scrum Report"
+      value: "🌟 **Daily Scrum Report** 🌟"
 
   - type: textarea
     id: Done_Yesterday
     attributes:
       label: "✅ 1. 어제 한 일 (What we did yesterday)"
-      value: "어제 한 일 작성"
+      value: "어제 진행한 업무를 정리하세요."
 
   - type: textarea
     id: Done_Yesterday_Kyunam
