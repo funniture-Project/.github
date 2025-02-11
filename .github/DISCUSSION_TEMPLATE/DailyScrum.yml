@@ -1,10 +1,13 @@
 title: "[오늘 날짜] 회의록"
 labels: [아침 짧은 회의를 통한 할일 정리와 현 상황 파악]
 body:
-  - type: text
+  - type: textarea
+    id: Daily_Scrum_Report
     attributes:
-      value: |
-        🌟 **Daily Scrum Report** 🌟
+      label: "🌟 Daily Scrum Report"
+      value: ""
+      placeholder: "이곳에 내용을 입력할 필요 없습니다."
+      disabled: true
 
   - type: textarea
     id: Done_Yesterday
