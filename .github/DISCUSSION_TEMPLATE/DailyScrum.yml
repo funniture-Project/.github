@@ -6,10 +6,27 @@ body:
       value: |
         🌟 **Daily Scrum Report** 🌟
 
-  - type: textarea
-    id: Done_Yesterday
+  - type: markdown
     attributes:
-      label: "✅ 1. 어제 한 일 (What I did yesterday)"
+      label: "✅ 1. 어제 한 일 (What we did yesterday)"
+      value: ""
+
+  - type: textarea
+    id: Done_Yesterday_Kyunam
+    attributes:
+      label: "규남"
+      value: "- 🔹"
+
+  - type: textarea
+    id: Done_Yesterday_Yejin
+    attributes:
+      label: "예진"
+      value: "- 🔹"
+
+  - type: textarea
+    id: Done_Yesterday_Eunmi
+    attributes:
+      label: "은미"
       value: "- 🔹"
 
   - type: textarea
