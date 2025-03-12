@@ -10,6 +10,7 @@
 
 <div align="flex-start"><img src="https://github.com/user-attachments/assets/c2c2ff28-82c7-4bac-92ca-55826a410630" alt="로고" width="600px"></div>
 <br/>
+
 **프로젝트 기간** : 2025.01.13 ~ 2025.03.17 (9주)
 
 <br/>
