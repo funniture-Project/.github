@@ -10,8 +10,6 @@
 
 <div align="flex-start"><img src="https://github.com/user-attachments/assets/c2c2ff28-82c7-4bac-92ca-55826a410630" alt="로고" width="600px"></div>
 <br/>
-
-
 **프로젝트 기간** : 2025.01.13 ~ 2025.03.17 (9주)
 
 <br/>
@@ -19,7 +17,7 @@
 ## ✨ 프로젝트 소개
 
 
-## **프로젝트 : ✈️ SkyCare**
+## **프로젝트 : 🛋Funniture📺**
 
 #### **개요**
 공항 시설물의 효율적이고 체계적인 관리를 위한 종합 솔루션 제공 프로그램 개발. React.js를 이용한 SPA 애플리케이션과 Spring Boot 기반의 REST API 서버를 구축하고, 도커를 활용한 클라우드 배포를 통해 공항 내 시설물 관리와 대여를 지원합니다.
