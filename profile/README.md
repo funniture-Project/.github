@@ -86,20 +86,6 @@ Funniture는 단순 대여 서비스를 넘어 렌탈부터 반납까지를 관�
 
 ***
 
-## 📱 Mobile Application
-
-| 구분                 | 사용 기술 및 라이브러리          |
-| -------------------- | ------------------------------- |
-| 언어                 | JavaScript                      |
-| 모바일 애플리케이션 개발 | React Native, Expo              |
-| 네비게이션           | React Navigation                |
-| 상태 관리            | Formik, Yup                     |
-| 네트워크 통신        | Axios                           |
-| 스토리지             | @react-native-async-storage/async-storage |
-| UI 컴포넌트          | @react-native-community/checkbox, @react-native-picker/picker, Expo Checkbox, React Native Safe Area Context, React Native Screens |
-| 기기 기능            | Expo Barcode Scanner, Expo Camera |
-| 웹뷰                 | React Native WebView            |
-| 빌드 도구            | Babel                           |
 
 
 
