@@ -8,7 +8,7 @@
 <br/>
 
 
-<div align="center"><img src="https://github.com/user-attachments/assets/69f940a6-94c7-4537-b5f2-0f3461b2b903" alt="로고" width="700px"></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/f621ca43-ed2e-4f0a-86a2-490705f00cc2" alt="로고" width="700px"></div>
 <br/>
 
 **프로젝트 기간** : 2025.01.13 ~ 2025.03.17 (9주)
