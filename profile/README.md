@@ -1,14 +1,9 @@
 
 
-
-                                              
-
 # Funniture
-
 <br/>
 
-
-<div align="flex-start"><img src="https://github.com/user-attachments/assets/c2c2ff28-82c7-4bac-92ca-55826a410630" alt="로고" width="600px"></div>
+<div align="flex-start"><img src="https://github.com/user-attachments/assets/2af9d631-a0a0-4660-bd72-b3ec97eed7b7" alt="로고" width="600px"></div>
 <br/>
 
 **프로젝트 기간** : 2025.01.13 ~ 2025.03.17 (9주)
