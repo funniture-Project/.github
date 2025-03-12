@@ -95,11 +95,11 @@ Funniture는 단순 대여 서비스를 넘어 렌탈부터 반납까지를 관�
 
 
 ## ✨ 물리 데이터 모델
-<img src="https://github.com/user-attachments/assets/f633aeab-2c32-42f7-a3f6-a2490f818f42" alt="model">
+<img src="" alt="model">
 
 ***
 
-<img src="https://github.com/user-attachments/assets/7cf1c7bb-7111-4994-a1a9-95490367a0bc" alt="model">
+<img src="" alt="model">
 
 
 ## ⭐️ 주요 기능
