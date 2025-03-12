@@ -8,7 +8,7 @@
 <br/>
 
 
-<div align="flex-start"><img src="https://github.com/user-attachments/assets/c2c2ff28-82c7-4bac-92ca-55826a410630" alt="로고" width="700px"></div>
+<div align="flex-start"><img src="https://github.com/user-attachments/assets/c2c2ff28-82c7-4bac-92ca-55826a410630" alt="로고" width="600px"></div>
 <br/>
 
 
