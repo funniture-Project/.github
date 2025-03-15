@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/2cac5b2d-5538-4947-9cf2-88e859d3b7b7)
 
-# <span style="color:#b08968">Fun</span>niture
 <br/>
 
 ![image](https://github.com/user-attachments/assets/a37e3b69-4c2d-4cff-9f62-1230b8891e70)
