@@ -16,7 +16,6 @@
 | 김규남   | <img src="https://github.com/user-attachments/assets/b26bacbc-7dd4-4798-a365-5c1e1386ecf6" width="130" height="100"> | DBA      | 로그인, 회원가입,                                   |
 
 ## 📋개요
-<br/>
 이 프로젝트는 가구 및 가전 제품의 렌탈 서비스를 제공하는 **Funniture** 플랫폼입니다.  
 단순 대여 서비스를 넘어 렌탈부터 반납까지 관리하여 사용자와 제공자 모두에게 편리한 **원스톱 관리 서비스**를 제공하고 있습니다.
 
