@@ -7,25 +7,25 @@
 <br/>
 <br/>
 
+## 📋개요
+이 프로젝트는 가구 및 가전 제품의 렌탈 서비스를 제공하는 **Funniture** 플랫폼입니다.  
+단순 대여 서비스를 넘어 렌탈부터 반납까지 관리하여 사용자와 제공자 모두에게 편리한 **원스톱 관리 서비스**를 제공하고 있습니다.
+
 ## 😊팀원 소개
 
 | 이름     | 이미지                                                                 | 역할     | 기능개발                                                        |
 |----------|-----------------------------------------------------------------------|----------|-----------------------------------------------------------------|
-| 정예진   | <img src="https://github.com/user-attachments/assets/6631bfcb-e2f9-4862-b013-ddbc7e14608d" width="130" height="100"> | PM       | 챗봇, 상품정보                                        |
-| 정은미   | <img src="https://github.com/user-attachments/assets/b237ab0e-2221-4811-8f4d-6407a88f408e" width="130" height="100"> | 형상관리자 | 로그인, 사번&비밀번호 찾기, 메인화면, 결재, 관리자페이지 |
-| 김규남   | <img src="https://github.com/user-attachments/assets/b26bacbc-7dd4-4798-a365-5c1e1386ecf6" width="130" height="100"> | DBA      | 로그인, 회원가입,                                   |
-
-## 📋개요
-이 프로젝트는 가구 및 가전 제품의 렌탈 서비스를 제공하는 **Funniture** 플랫폼입니다.  
-단순 대여 서비스를 넘어 렌탈부터 반납까지 관리하여 사용자와 제공자 모두에게 편리한 **원스톱 관리 서비스**를 제공하고 있습니다.
+| 정예진   | <img src="https://github.com/user-attachments/assets/6631bfcb-e2f9-4862-b013-ddbc7e14608d" width="130" height="100"> | PM       | 챗봇, 상품정보, 관심 상품, 최근 본 상품, 관리자 문의, 공지사항 |
+| 정은미   | <img src="https://github.com/user-attachments/assets/b237ab0e-2221-4811-8f4d-6407a88f408e" width="130" height="100"> | 형상관리자 | 배송지, 포인트, 예약, 반납, 매출 |
+| 김규남   | <img src="https://github.com/user-attachments/assets/b26bacbc-7dd4-4798-a365-5c1e1386ecf6" width="130" height="100"> | DBA      | 로그인, 회원가입, 회원관리, 리뷰, 제공자 1:1 문의 |
 
 ## 🖥 기술 스택
 
 | 구분                 | 사용 기술 및 라이브러리          |
 | -------------------- | ------------------------------- |
-| 언어                 |  Java, JavaScript           |
-| 프레임워크             | Spring Boot, React   |
-| DBMS 및 ORM         |  MySQL  |
+| 언어                 |  Java, JavaScript               |
+| 프레임워크             | Spring Boot, React            |
+| DBMS 및 ORM         |  MySQL                           |
 | 백엔드    | Spring Security, Swagger, Cloudinary, Query DSL, JPA  |
 | 프론트엔드    | React-Bootstrap, Chart.js, Redux, Axios, React-Quill |
 
