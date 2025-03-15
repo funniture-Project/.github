@@ -1,8 +1,5 @@
-<div align="flex-start"><img src="https://github.com/user-attachments/assets/ebb4b683-06f1-49a0-92da-e6548a9b9150" alt="로고" width="300px" hegih="250px"></div>
-<hr/>
-
+## <div align="flex-start"><img src="https://github.com/user-attachments/assets/ebb4b683-06f1-49a0-92da-e6548a9b9150" alt="로고" width="300px" hegih="250px"></div>
 ![image](https://github.com/user-attachments/assets/a37e3b69-4c2d-4cff-9f62-1230b8891e70)
-
 
 **프로젝트 기간 : 2025.01.13 ~ 2025.03.17 (9주)**
 
