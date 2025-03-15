@@ -1,10 +1,9 @@
-![image](https://github.com/user-attachments/assets/a37e3b69-4c2d-4cff-9f62-1230b8891e70)
 
 # Funniture
 <br/>
 
-<div align="flex-start"><img src="https://file.notion.so/f/f/2e42b292-3597-492a-9d2f-caaf0ff36a48/4c77a080-9873-4d45-b082-59f731643147/Frame_257_(1).jpg?table=block&id=1b764913-6c11-80cc-8d7f-e8e2658dd190&spaceId=2e42b292-3597-492a-9d2f-caaf0ff36a48&expirationTimestamp=1742083200000&signature=AYWpviDllJ1UcmlX5c1PhrQja0Krv77e7EPxIcI8wPc&downloadName=Frame+257+%281%29.jpg" alt="로고" width="300px"></div>
-<br/>
+![image](https://github.com/user-attachments/assets/a37e3b69-4c2d-4cff-9f62-1230b8891e70)
+
 
 **프로젝트 기간 : 2025.01.13 ~ 2025.03.17 (9주)**
 
