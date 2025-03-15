@@ -19,6 +19,16 @@
 이 프로젝트는 가구 및 가전 제품의 렌탈 서비스를 제공하는 **Funniture** 플랫폼입니다.  
 단순 대여 서비스를 넘어 렌탈부터 반납까지 관리하여 사용자와 제공자 모두에게 편리한 **원스톱 관리 서비스**를 제공하고 있습니다.
 
+## 🖥 기술 스택
+
+| 구분                 | 사용 기술 및 라이브러리          |
+| -------------------- | ------------------------------- |
+| 언어                 |  Java, JavaScript           |
+| 프레임워크             | Spring Boot, React   |
+| DBMS 및 ORM         |  MySQL  |
+| 백엔드    | Spring Security, Swagger, Cloudinary, Query DSL, JPA  |
+| 프론트엔드    | React-Bootstrap, Chart.js, Redux, Axios, React-Quill |
+
 ## 🌟주요 기능
 
 - **공통**
@@ -86,52 +96,9 @@
 <br/>
 
 
-***
-
-## 🖥 기술 스택
-
-## 📘 Front end
-
-| 구분                 | 사용 기술 및 라이브러리          |
-| -------------------- | ------------------------------- |
-| 언어                 | JavaScript, HTML/CSS            |
-| UI                   | Material-UI, Bootstrap, Styled Components, React Beautiful DnD, React Select, React Simple Tree Menu, React Bootstrap Table, React Chat Elements |
-| 상태 관리            | Redux, React-Redux, @reduxjs/toolkit |
-| 폼 및 유효성 검사    | Formik, React Hook Form, Yup, React Validation |
-| 차트 및 시각화       | Chart.js, React Chartjs 2, ApexCharts, React ApexCharts, React Jvectormap |
-| 에디터 및 리치 텍스트 | Draft.js, React Draft WYSIWYG, React Markdown, @uiw/react-md-editor |
-| HTTP 통신            | Axios, Axios Mock Adapter        |
-| 파일 처리            | HTML2Canvas, JSPDF, JS Cookie    |
-| 유틸리티             | Moment.js, Chroma.js, UUID, Namor, Get Orientation, QRCode.react |
-| 권한 관리            | @casl/ability, @casl/react       |
-| 개발 도구 및 빌드    | Vite, ESLint, @vitejs/plugin-react |
-
-***
-
-
-## 📙 Back end
-
-| 구분                 | 사용 기술 및 라이브러리          |
-| -------------------- | ------------------------------- |
-| 언어                 | Java (JDK 17)                   |
-| 프레임워크           | Spring Boot, Spring Security, Spring Web, Spring Data JPA, Spring WebSocket, Spring Validation, Spring Boot DevTools |
-| 데이터베이스         | MySQL, MySQL Connector/J , Firebase       |
-| API, 라이브러리      | ModelMapper, Commons IO, Unirest, jjwt (JSON Web Token), Dotenv (환경변수 관리) |
-| 테스트               | JUnit, Spring Security Test, Spring Boot Test, JUnit Platform Launcher |
-| 문서화               | Springdoc OpenAPI (Swagger)     |
-| 메시징 및 알림       | Nurigo SMS SDK                  |
-| 웹 클라이언트        | Spring WebFlux, WebClient       |
-| 클라우드             | Firebase Admin SDK              |
-| 어노테이션 프로세싱  | Lombok, Annotation Processor    |
-
-***
 
 
 
-
-
-***
-***
 
 
 ## ✨ 물리 데이터 모델
