@@ -4,6 +4,7 @@
 
 # **프로젝트 : <span align="flex-start"><img src="https://github.com/user-attachments/assets/de1c42b1-253c-4ea2-b67c-2d1a9a101bf2" alt="로고" width="230px" hegih="150px"></span>**
 <spqn>🕒 **2025.01.13 ~ 2025.03.17 (9주)**</span>
+| 📃 [Notion](https://www.notion.so/ohgiraffers/Funniture-a20b3bd6541044bb92633168355e984d) | 🎨 [Figma](https://www.figma.com/design/LerWvqtQYoZsDC5apYe5R4/Funniture?node-id=0-1&p=f&t=H87Z57FzWKf1Kxf2-0) | 
 <br/>
 <br/>
 
@@ -84,7 +85,7 @@
 
 **프로젝트 문서**
  
-| 📃 [Notion](https://www.notion.so/ohgiraffers/Funniture-a20b3bd6541044bb92633168355e984d) | 🎨 [Figma](https://www.figma.com/design/LerWvqtQYoZsDC5apYe5R4/Funniture?node-id=0-1&p=f&t=H87Z57FzWKf1Kxf2-0) | 
+
 <br/>
 <br/>
 <br/>
