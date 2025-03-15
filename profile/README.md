@@ -1,14 +1,12 @@
 ## <div align="flex-start"><img src="https://github.com/user-attachments/assets/ebb4b683-06f1-49a0-92da-e6548a9b9150" alt="로고" width="300px" hegih="250px"></div>
 ![image](https://github.com/user-attachments/assets/a37e3b69-4c2d-4cff-9f62-1230b8891e70)
-
-**프로젝트 기간 : 2025.01.13 ~ 2025.03.17 (9주)**
-
 <br/>
 
 ## ✨ 프로젝트 소개
 
 
-## **프로젝트 : 🛋Funniture📺**
+## **프로젝트 : Funniture**
+**프로젝트 기간 : 2025.01.13 ~ 2025.03.17 (9주)**
 
 #### **개요**
 Funniture는 단순 대여 서비스를 넘어 렌탈부터 반납까지를 관리하여 사용자와 제공자 모두에게 편리한, 원스톱 관리 서비스를 제공하고 있습니다.
