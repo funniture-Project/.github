@@ -122,7 +122,8 @@
 
 
 ## ✨ 물리 데이터 모델
-<img src="" alt="model">
+![물리](https://github.com/user-attachments/assets/2eb97a27-ca81-40df-8b08-e1547827d44f)
+
 
 
 ## 💡 WIKI
