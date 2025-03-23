@@ -18,7 +18,7 @@
 
 | 이름     | 이미지                                                                 | 역할     | 기능개발                                                        |
 |----------|-----------------------------------------------------------------------|----------|-----------------------------------------------------------------|
-| 정예진   | <img src="https://github.com/user-attachments/assets/a9a3ca81-96a4-4fb2-b108-f01a7551f011" height="100"> | PM       | 챗봇, 상품관리, 관심상품, 최근본상품, 관리자 문의, 공지사항 |
+| 정예진   | <img src="https://github.com/user-attachments/assets/a9a3ca81-96a4-4fb2-b108-f01a7551f011" height="100" textalign="center"> | PM       | 챗봇, 상품관리, 관심상품, 최근본상품, 관리자 문의, 공지사항 |
 | 정은미   | <img src="https://github.com/user-attachments/assets/b237ab0e-2221-4811-8f4d-6407a88f408e" width="130" height="100"> | 형상관리자 | 배송지, 포인트, 예약관리, 반납관리, 매출 및 정산 |
 | 김규남   | <img src="https://github.com/user-attachments/assets/b26bacbc-7dd4-4798-a365-5c1e1386ecf6" width="130" height="100"> | DBA      | 로그인, 회원가입, 회원관리, 리뷰, 제공자 1:1 문의 |
 
