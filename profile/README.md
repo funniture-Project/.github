@@ -30,7 +30,7 @@
 | 프레임워크             | Spring Boot, React            |
 | DBMS 및 ORM         |  MySQL                           |
 | 백엔드    | Spring Security, Swagger, Cloudinary, Query DSL, JPA  |
-| 프론트엔드    | React-Bootstrap, Chart.js, Redux, Axios, React-Quill |
+| 프론트엔드    | React-Bootstrap, ApexChart.js, Redux, Axios, React-Quill |
 
 ## 🌟주요 기능
 
@@ -76,7 +76,11 @@
 **2. 사업 정보 관리**<br/>
 
 **3. 상품 등록 및 수정**<br/>
+![상품 등록](https://github.com/user-attachments/assets/30a00017-878a-432d-a128-b46de91034ca)
 
+- 상품 정보 등록에 react-quill을 적용하여 제공자에게 자유로운 콘텐츠 작성과 예측 가능성제공
+- 대표 이미지 및 상품 설명내의 이미지 데이터 cloudinary를 이용하여 처리
+- 렌탈 개월수에 따른 가격 및 as횟수 등록 가능
 
 **4. 상품 상태 변경**<br/>
 ![상품 상태 변경](https://github.com/user-attachments/assets/80d3b4c5-85bb-4729-9149-f03a98747a52)
