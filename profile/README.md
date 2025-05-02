@@ -152,12 +152,11 @@
 
 ### 📙 Back end
 
-  - 😊[](https://github.com/)
+  - 😊 [Back end](https://github.com/funniture-Project/funniture-be)
 
 
  ### 📘 Front end
-  - 😊[](https://github.com/)
-
+  - 😊 [Front end](https://github.com/funniture-Project/funniture-fe)
 
 
 <br/>
